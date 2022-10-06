@@ -1,9 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-public class Program
+﻿using System;
+
+public class Class1
 {
-    // Uncomment the following line to resolve.
-    static void Main() {
+	static void Main()
+	{
 		int a = 1;
 		int b = 2;
 		int c = 3;
